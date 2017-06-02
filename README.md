@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+Simple Todo app created following this tutorial: [Build a To-Do App with Vue.js 2](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2) on [Scotch.io](https://scotch.io/)
+
+Nice tutorial easy to follow, some missing step but diving in the [github project](https://github.com/scotch-io/vue-todo) I was able to complete it getting a working sample.
+
+
+
 ## Build Setup
 
 ``` bash
